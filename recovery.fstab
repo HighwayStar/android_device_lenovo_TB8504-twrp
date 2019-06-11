@@ -27,7 +27,7 @@
 /keymaster       emmc              /dev/block/bootdevice/by-name/keymaster  flags=backup=1;subpartitionof=/aboot
 /devcfg          emmc              /dev/block/bootdevice/by-name/devcfg     flags=backup=1;subpartitionof=/aboot
 
-/lenovocust      ext4              /dev/block/bootdevice/by-name/lenovocust flags=backup=1;display="Lenovo Custom"
+/lenovocust      ext4              /dev/block/bootdevice/by-name/lenovocust flags=display="Lenovo Custom"
 
 /sdcard1         auto              /dev/block/mmcblk1p1                     flags=display="MicroSD";storage;wipeingui;removable
 /usb-otg         vfat              /dev/block/sda1      /dev/block/sda      flags=removable;storage;wipeingui;display="USB OTG"
