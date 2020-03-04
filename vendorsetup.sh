@@ -1,2 +1,2 @@
-add_lunch_combo omni_X704F-eng
-add_lunch_combo omni_X704F-userdebug
+add_lunch_combo omni_TB8504-eng
+add_lunch_combo omni_TB8504-userdebug

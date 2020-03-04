@@ -15,5 +15,5 @@
 #
 
 PRODUCT_PROPERTY_OVERRIDES += \
-    ro.hardware.keystore=msm8953 \
-    ro.hardware.gatekeeper=msm8953
+    ro.hardware.keystore=msm8937 \
+    ro.hardware.gatekeeper=msm8937
